@@ -18,6 +18,11 @@
 - I’m currently open for an internship or a new job opportunity
 - In my free time I like to play video games
 
+# Contact Me 🤝
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bruno.viscay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunoviscay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/walter-britos-2ba430222)
+
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -66,17 +71,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Britos1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
-
-<h1># Contact Me 🤝</h1>
-      <a href="https://www.linkedin.com/in/walter-britos/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a> 
 
 </p>
 

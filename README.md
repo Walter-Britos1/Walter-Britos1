@@ -59,7 +59,7 @@
 
 <br>
 
-<h1 align='center'># 📊 GitHub Stats:</h1>
+<h1 align='center'> 📊 GitHub Stats:</h1>
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Walter-Britos1&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Walter-Britos1&theme=dark&hide_border=false)<br/>

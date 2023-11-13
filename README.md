@@ -58,6 +58,26 @@
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 
 <br>
+
+<h1 align='center'># 📊 GitHub Stats:</h1>
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Walter-Britos1&theme=dark&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Walter-Britos1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Britos1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+<h1># Contact Me 🤝</h1>
+      <a href="https://www.linkedin.com/in/www.linkedin.com/in/walter-britos-2ba430222/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a> 
+
 </p>
 
 

@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, I'm Walter Britos.👋</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Walter Britos.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&height=60&lines=Full-Stack+Web+Developer%2C;Always+learning+new+technologies%2C;Active+teamwork%2C" alt="Typing SVG" /></a>
@@ -46,6 +46,7 @@
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    ![Sequelize](https://img.shields.io/badge/Sequelize-00000?style=for-the-badge&logo=sequelize&logoColor=green&color=white)
 
 <br>
 

@@ -27,7 +27,7 @@
    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/walter.britos.336) 
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/walter__britos/) 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-britos-2ba430222/) 
-   <a href="walterbritos418@gmail.com" target="blank">
+   <a href="mailto:walterbritos418@gmail.com" target="blank">
    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="walter" height="20"/>
    </a>
    

@@ -30,6 +30,8 @@
    <a href="mailto:walterbritos418@gmail.com" target="blank">
    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="walter" height="20"/>
    </a>
+
+   <br>
    
 
 <h1 align='center'>🛠️ My Skills:</h1>

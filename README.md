@@ -14,7 +14,6 @@
 <br>
 
 - A passionate full-stack web developer
-- Currently learning web development at a Bootcamp
 - I’m currently open for an internship or a new job opportunity
 - In my free time I like to play video games
 
